@@ -1,4 +1,4 @@
-# gitops-the-easyway
+# What is GitOps?
 GitOps is a way of implementing Continuous Deployment for cloud native applications
 
 ## Argo CD - the declarative, GitOps continuous delivery tool for Kubernetes.
